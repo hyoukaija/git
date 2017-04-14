@@ -4,3 +4,4 @@ try merge in merged debug 2;
 try origin/master
 try push to github
 what happen
+I know what happen
